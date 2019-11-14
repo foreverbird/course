@@ -1,0 +1,230 @@
+    <svg id="spearfish10xb08256cf99cb6a8a31eb35838384174c" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 109">
+            <svg id="Marlin-Baby" xmlns="http://www.w3.org/2000/svg" width="193" height="109" viewBox="0 0 220 115">
+    <defs>
+        <style>
+            .spearfish-baby-cls-1 {
+                fill: #003c52;
+            }
+
+            .spearfish-baby-cls-1, .spearfish-baby-cls-10, .spearfish-baby-cls-11, .spearfish-baby-cls-12, .spearfish-baby-cls-13, .spearfish-baby-cls-14, .spearfish-baby-cls-15, .spearfish-baby-cls-16, .spearfish-baby-cls-19, .spearfish-baby-cls-2, .spearfish-baby-cls-3, .spearfish-baby-cls-4, .spearfish-baby-cls-5, .spearfish-baby-cls-6, .spearfish-baby-cls-7, .spearfish-baby-cls-8, .spearfish-baby-cls-9 {
+                fill-rule: evenodd;
+            }
+
+            .spearfish-baby-cls-2, .spearfish-baby-cls-3 {
+                fill-opacity: 0.2;
+            }
+
+            .spearfish-baby-cls-11, .spearfish-baby-cls-12, .spearfish-baby-cls-15, .spearfish-baby-cls-18, .spearfish-baby-cls-3, .spearfish-baby-cls-9 {
+                fill: #fff;
+            }
+
+            .spearfish-baby-cls-4 {
+                fill: #094962;
+            }
+
+            .spearfish-baby-cls-5, .spearfish-baby-cls-9 {
+                opacity: 0.2;
+            }
+
+            .spearfish-baby-cls-6 {
+                fill: #c5c8d1;
+            }
+
+            .spearfish-baby-cls-7 {
+                fill: #0b4b64;
+            }
+
+            .spearfish-baby-cls-8 {
+                fill: #d79d72;
+            }
+
+            .spearfish-baby-cls-10 {
+                fill-opacity: 0.09;
+            }
+
+            .spearfish-baby-cls-11 {
+                fill-opacity: 0.72;
+            }
+
+            .spearfish-baby-cls-12 {
+                fill-opacity: 0.3;
+            }
+
+            .spearfish-baby-cls-13 {
+                fill-opacity: 0.38;
+                opacity: 0.58;
+            }
+
+            .spearfish-baby-cls-14 {
+                fill: #c9c18b;
+            }
+
+            .spearfish-baby-cls-16 {
+                fill: #f2e8a6;
+            }
+
+            .spearfish-baby-cls-17 {
+                fill: #0a0907;
+            }
+
+            .spearfish-baby-cls-19 {
+                fill: #15526a;
+            }
+
+            .spearfish-young-cls-1 {
+                fill: #023c52;
+            }
+
+            .spearfish-young-cls-1, .spearfish-young-cls-10, .spearfish-young-cls-11, .spearfish-young-cls-12, .spearfish-young-cls-13, .spearfish-young-cls-14, .spearfish-young-cls-15, .spearfish-young-cls-16, .spearfish-young-cls-17, .spearfish-young-cls-18, .spearfish-young-cls-19, .spearfish-young-cls-2, .spearfish-young-cls-21, .spearfish-young-cls-3, .spearfish-young-cls-4, .spearfish-young-cls-5, .spearfish-young-cls-6, .spearfish-young-cls-7, .spearfish-young-cls-8, .spearfish-young-cls-9 {
+                fill-rule: evenodd;
+            }
+
+            .spearfish-young-cls-2 {
+                fill: #15526a;
+            }
+
+            .spearfish-young-cls-12, .spearfish-young-cls-3 {
+                opacity: 0.2;
+            }
+
+            .spearfish-young-cls-4 {
+                fill: #064760;
+            }
+
+            .spearfish-young-cls-5 {
+                opacity: 0.24;
+            }
+
+            .spearfish-young-cls-6 {
+                fill: #004b67;
+            }
+
+            .spearfish-young-cls-7 {
+                fill: #c5c8d1;
+            }
+
+            .spearfish-young-cls-8 {
+                opacity: 0.15;
+            }
+
+            .spearfish-young-cls-9 {
+                fill: #d0844e;
+            }
+
+            .spearfish-young-cls-10 {
+                fill: #094962;
+            }
+
+            .spearfish-young-cls-11, .spearfish-young-cls-12, .spearfish-young-cls-13, .spearfish-young-cls-14, .spearfish-young-cls-17, .spearfish-young-cls-19 {
+                fill: #fff;
+            }
+
+            .spearfish-young-cls-11 {
+                fill-opacity: 0.2;
+            }
+
+            .spearfish-young-cls-13 {
+                opacity: 0.63;
+            }
+
+            .spearfish-young-cls-14 {
+                opacity: 0.54;
+            }
+
+            .spearfish-young-cls-15 {
+                fill-opacity: 0.09;
+            }
+
+            .spearfish-young-cls-16 {
+                fill-opacity: 0.38;
+                opacity: 0.58;
+            }
+
+            .spearfish-young-cls-17 {
+                fill-opacity: 0.51;
+            }
+
+            .spearfish-young-cls-18 {
+                fill: #c9c18b;
+            }
+
+            .spearfish-young-cls-20 {
+                fill: #f2e8a6;
+            }
+
+            .spearfish-young-cls-21 {
+                fill: #0a0907;
+            }
+        </style>
+    </defs>
+            <g id="ridge">
+            <path id="ridge-2" data-name="ridge" class="spearfish-baby-cls-1 spearfish-ridge"
+                  d="M92.718,0.6L95.2,8.881c21.118,7.385,42.476,20.329,57.183,41.4q1.244,5.519,2.486,11.039l-3.729,2.76c-10.13-7.632-27.4-15.049-42.266-16.559C97.891,56.956,91.458,60.334,77.8,57.177L75.314,68.216l-3.729-2.76V62.7C64.833,37.083,82.612,13.456,92.718.6Z"/>
+            <path id="Color_Fill_46" data-name="Color Fill 46" class="spearfish-baby-cls-2"
+                  d="M92.718,7.156l4.351,3.45L92.1,16.125C91.319,18.143,73.45,51.313,73.45,51.313l-1.243-2.07C75.769,29.455,86.152,21.693,92.718,7.156Zm6.837,4.14,3.729,0.69,0.622,1.38L85.259,44.413l-3.108-.69v-0.69C85.135,30.415,93.3,20.644,99.555,11.3Zm8.7,3.45,4.351,1.38L93.961,45.1H91.475l-0.622-.69C91.926,31.513,102.472,23.146,108.257,14.746Zm7.458,4.83c3.516,0.26,3.952.662,5.595,2.76v0.69L102.041,46.483l-1.864-1.38v-0.69C103.247,33.806,111.646,28.743,115.715,19.575ZM123.8,24.4l3.729,0.69q0.31,0.69.621,1.38L112.608,45.793l-1.865-2.07C114.149,35.933,119.369,30.924,123.8,24.4Zm7.458,5.52h1.865c3.972,4.254-6.71,15.025-11.188,18.628h-1.865V45.1Zm6.837,5.52c2.5,0.787,2.379.948,3.73,2.76v1.38L128.768,52l-1.243-.69C128.634,43.576,134.485,40.532,138.091,35.444Zm6.216,6.9c2.5,0.787,2.379.948,3.729,2.76v1.38l-7.458,6.9-3.108-.69V52l0.621-1.38Z"/>
+            <path id="Color_Fill_47" data-name="Color Fill 47" class="spearfish-baby-cls-3"
+                  d="M94.583,7.5c-0.208,1.637-.1,1.833-1.864,3.45Zm6.838,4.83L96.447,20.61H95.826V19.92Zm-11.188.69,0.621,1.38Zm16.782,2.07h1.864l-14.3,20.7ZM86.5,17.85c-0.264.64,0.5,0.466-.622,1.38Zm29.213,1.38h1.865L101.42,41.308C103.536,32.592,111.177,25.793,115.715,19.23ZM95.2,20.61c0.726,1.747-1.557,4.179-3.108,5.52l1.243-2.07Zm-11.188.69,0.621,1.38Zm-1.243,2.07c-0.264.64,0.5,0.466-.622,1.38Zm42.266,0c1.171,3.376-9.814,17.459-13.674,20.7C113.4,35.555,120.649,29.668,125.039,23.37ZM90.853,26.82a4.723,4.723,0,0,1-2.486,4.83Zm39.78,2.07h2.486L120.688,44.068C122.364,37.284,127.636,34.349,130.633,28.889Zm8.08,4.83,1.243,1.38-11.81,12.419v-0.69C131.111,41.526,134.764,37.865,138.713,33.719Zm-52.211.69,0.621,1.38Zm7.459,1.38,0.621,1.38Zm-8.7.69,0.621,1.38Zm60.291,4.14L146.793,42l-1.243.69-8.08,8.969C139.127,46.549,142.565,44.171,145.55,40.619Zm-25.484,3.45,0.622,1.38Zm31.078,4.14h1.865q-0.312,1.035-.622,2.07l-4.972,4.14Z"/>
+        </g>
+                <g id="tail">
+            <path id="colour_2" data-name="colour 2" class="spearfish-baby-cls-4 spearfish-color2"
+                  d="M189.37,29.234l3.107,2.07c-14.269,28.1-29.016,42.687-4.35,75.894q-0.312.69-.622,1.38H184.4c-12.3-5.2-35.514-22.244-24.862-41.4l-3.729-6.21C158.794,44.932,177.7,36.351,189.37,29.234Z"/>
+            <path id="Color_Fill_44" data-name="Color Fill 44" class="spearfish-baby-cls-5"
+                  d="M174.035,67.763l1.864,0.69c-2.482,18.369,6.581,28.751,13.053,39.327h-1.243c-10.531,4.166-32.417-20.36-29.835-34.5C161.76,68.255,167.735,70.42,174.035,67.763Z"/>
+            <path id="Color_Fill_45" data-name="Color Fill 45" class="spearfish-baby-cls-5"
+                  d="M188.748,29.234l3.729,2.07v0.69c-7.634,9.74-22.019,31.957-16.782,51.746l11.81,24.838H184.4c-11.332-5.408-26.247-13.884-27.348-30.358h0.621q0.623,1.035,1.243,2.07c11.073-3.944,18.158-27.258,21.133-40.017-10.848,5.181-15.766,12.5-23,21.388l-1.243-1.38C162.341,42.47,176.1,39.949,188.748,29.234Zm-17.4,49.676-6.836,8.969c2.835,5.5,9.451,12.049,15.538,13.8C179.209,96.583,174.906,81.587,171.344,78.91Z"/>
+        </g>
+        <g id="body">
+        <path id="colour_0" data-name="colour 0" class="spearfish-baby-cls-6 spearfish-color0"
+              d="M83.705,37.794c27.738-.719,76.315,12.73,89.5,27.6-0.442,16.079-11.94,14.6-21.133,20.7-31.463,20.882-82.648,10.892-120.581,1.38V86.78l0.622-1.38,14.917-7.589-46-4.14v-0.69l27.348-8.969,40.4-22.768Z"/>
+        <path id="colour_2-2" data-name="colour 2" class="spearfish-baby-cls-7 spearfish-color3"
+              d="M82.773,37.772c27.2-.36,74.251,10.38,87.018,25.528v0.69a542.8,542.8,0,0,0-54.076,5.519l-16.16-1.38c-17.715-.313-32.153.034-49.1,3.45-10.446,2.1-39.042,8.5-49.724,1.38C27.744,66.479,45.363,49.72,67.856,41.222Z"/>
+        <path id="colour_3" data-name="colour 3" class="spearfish-baby-cls-8 spearfish-color3"
+              d="M139.956,61.1c11.974,0.354,24.157-.333,33.622,4.14V68c-7.858,1.463-11.589-1.165-19.948,0L93.339,74.21C79.553,76.9,65.117,73.232,51.7,76.97,44.587,78.949,5.163,75.829,1.922,73.1c35.492,0.178,74.277-6.695,106.335-9.242C118.928,63.013,131.284,66.132,139.956,61.1Z"/>
+        <path id="Color_Fill_38" data-name="Color Fill 38" class="spearfish-baby-cls-9"
+              d="M85.881,36.641c31.057,1.381,60.013,10.205,82.667,22.768q-0.312.69-.622,1.38c-11.866-.006-14.187-5.716-22.376-8.279C131.776,48.2,101.088,42.349,83.395,46.3,55.983,52.42,33.646,75.482,4.457,72.154c0.207-.46,1.4.17,1.6-0.29,25.722-6.905,41.806-23,63.66-31.774Z"/>
+        <path id="Color_Fill_39" data-name="Color Fill 39" class="spearfish-baby-cls-10"
+              d="M147.415,75.514l23.619,0.69-3.108,4.14c-15.294,5.765-26.9,14.773-44.752,18.628-32.243,6.965-64.849-4.527-91.368-9.659,4.421-11.183,21.913-8.7,36.05-9.659Z"/>
+        <g id="stripes">
+                                                                    </g>
+        <path id="Color_Fill_42" data-name="Color Fill 42" class="spearfish-baby-cls-12"
+              d="M95.515,40.284l18.025,2.07v2.07l-22.376-2.07v-0.69l0.622-.69Zm-21.754,1.38,2.486,0.69-0.621,1.38-3.108,1.38-4.351-.69,1.243-.69Zm31.078,0.69,1.865,0.69Zm29.213,4.14,20.512,6.9v0.69C148.99,53.494,137.58,50.24,134.051,46.494ZM42.683,58.223h1.865L43.3,60.983c-6.785,2.687-23,15.326-31.14,9.622C23.239,68.08,35.92,66.147,42.683,58.223Z"/>
+        <path id="Color_Fill_12" data-name="Color Fill 12" class="spearfish-baby-cls-13"
+              d="M58.147,52.591c5.215,0.357,8.674,2.467,10.1,7.729q0.252,3.22.505,6.441c-1.86,4.938-4.772,8.526-10.1,9.017-4.577-2.045-9.135-2.885-11.11-8.373-1.061-4.425.092-7.463,1.515-10.306Zm9.459,22.4,0.6,0.228,0.4,2.97c-1.233,2.849-5.667,7.933-8.334,8.909C61.5,81.881,67.525,81.542,67.606,74.986ZM34.857,76.7c9.94,1.182,22.953.423,25.476,1.5-9.806,1.884-16.829,5.36-29.048,8.91q0.17-.809.34-1.618c7.692-4.136-4.614,1.728,3.078-2.408,4.638-1.8,7.381-2.873,12.018-4.671-0.226-.18-2.624.638-0.437,0.217C40.061,77.006,41.078,78.316,34.857,76.7Z"/>
+    </g>
+    <g id="eye">
+        <path class="spearfish-baby-cls-14"
+              d="M56.924,55.229C63.13,54.26,68.606,58.137,68.432,64s-5.9,10.444-12.071,10.251c-5.5-.171-9.425-4.154-9.284-8.912S51.392,56.092,56.924,55.229Z"/>
+        <path class="spearfish-baby-cls-15"
+              d="M53.268,69.126a6.67,6.67,0,0,1-6.182-3.368c0-.141-0.013-0.28-0.009-0.424,0.141-4.764,4.316-9.26,9.847-10.124,0.177-.028.349-0.038,0.524-0.058a6.111,6.111,0,0,1,4.326,6.087C61.648,65.5,57.673,69.037,53.268,69.126Z"/>
+        <path class="spearfish-baby-cls-16"
+              d="M58.759,55.972a8.211,8.211,0,1,1-8.248,7.956A8.126,8.126,0,0,1,58.759,55.972Z"/>
+        <circle class="spearfish-baby-cls-17" cx="57.266" cy="64.813" r="5.953"/>
+        <circle class="spearfish-baby-cls-18" cx="53.609" cy="62.875" r="2.016"/>
+    </g>
+            <g id="fin">
+            <path id="colour_2-3" data-name="colour 2" class="spearfish-baby-cls-19 spearfish-color2"
+                  d="M102.77,67.286c6.2,1.61,12.352,3.425,17.341,5.994q0.5,0.985,1.009,2c-2.748-.685-1.561,1.64-3.434,2.145-3.568.963-10.245,1.051-13.363,5.2L98.515,93.88S95.836,87.3,90.708,83.7c-4.493-3.15-12.585-4.1-12.811-4.573l1.02-3.989,12.334-7.307Z"/>
+            <path id="Color_Fill_32" data-name="Color Fill 32" class="spearfish-baby-cls-5"
+                  d="M120.568,73.911l0.749,0.761,0.232,0.675c-2.137-.345-2.154,1.776-3.669,2.49-3.278,1.546-8.1.245-11.42,3.121-1.943,3.665-4.188,7.9-6.808,12.845-3.142-4.927-5.9-9.2-9.513-11.268-2.64-1.51-5.625-.776-7.691-3.624q-0.015-.289-0.03-0.575Z"/>
+        </g>
+    
+            
+
+</svg>
+        <svg id="marks">
+</svg>    <svg>
+        <style>
+                             .spearfish-color3{
+                     fill:#6F070B;
+                 }                 .spearfish-color2{
+                     fill:#DC9E70;
+                 }                 .spearfish-color1{
+                     fill:#8DB1B9;
+                 }                 .spearfish-color0{
+                     fill:#CED2D6;
+                 }                 .spearfish-ridge{
+                     fill:#09183C;
+                 }
+        </style>
+    </svg>
+</svg>

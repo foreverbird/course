@@ -1,0 +1,19 @@
+.my-header {
+  height: 200px;
+  background-color: #f5f5f5;
+  background-image: url(../img/register-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+.my-header .my-header-logo {
+  width: 157px;
+  height: 134px;
+  margin: 20px 0 17px 80px;
+  background-image: url(../img/register-header-logo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 30px;
+}

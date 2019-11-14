@@ -1,0 +1,224 @@
+.inpool {
+    margin-top:34px;
+    /* border-bottom:3px solid #000; */
+}
+
+.inname {
+    /* color:white; */
+    text-align: left;
+}
+
+.inabb {
+    color: black;
+    text-align: left;
+}
+
+.inimg {
+    min-height:300px;
+}
+
+.inlevel {
+    height: 250px;
+    width: 250px;
+}
+
+.inowner {
+    float:left;
+    margin-left:10px;
+    font-weight:bold;
+    color: black;
+}
+
+.incolor {
+    color: black;
+}
+
+.inabbb {
+    width:80%; 
+    margin:0 auto;
+}
+
+.intr {
+    border-bottom: 1px solid #ccc;
+}
+.intd {
+    /* width: 100px; */
+}
+
+.incolor1 {
+    background-color: red;
+}
+
+.incolor2 {
+    background-color: green;
+}
+.bird-info-wrap {
+    display: flex;
+    .bird-price-info {
+        flex-grow: 0;
+        flex-shrink: 0;
+        .bird-level {
+            font-size: 24px;
+        }
+        .bird-weight {
+            font-size: 18px;
+        }
+    }
+    .bird-simple-info-wrap {
+        flex-grow: 0;
+        flex-shrink: 0;
+        .bird-token {
+            
+        }
+        .bird-name {
+            font-size: 24px;
+        }
+        .bird-rarity {
+            font-size: 18px;
+            margin-top: 11px;
+        }
+    }
+    .bird-img-info {
+        flex-grow: 1;
+        flex-shrink: 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+.bird-own {
+    text-align: center;
+    font-size: 20px;
+}
+.bird-price-wrap {
+    color: #fff;
+    background: #1c1d1e;
+    height: 65px;
+    line-height: 65px;
+    font-size: 20px;
+    justify-content: center;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    .buy-bird-btn {
+        height: 40px;
+        border-radius: 40px;
+        background-color: #5cb803;
+        line-height: 40px;
+        padding: 0 35px;
+        color: #fff;
+        margin-left: 10px;
+        &:hover {
+            opacity: .9;
+        }
+    }
+}
+.bird-info-detail {
+    background: #89a4cc;
+    padding: 30px;
+}
+.bird-detail-table {
+    padding: 10px 30px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    .title {
+        font-size: 24px;
+        color: #fff;
+    }
+    .detail-item {
+        display: flex;
+        height: 40px;
+        line-height: 40px;
+        color: #fff;
+        justify-content: space-between;
+        padding: 0 10px;
+        border-top: 1px solid #fff;
+        &.last {
+            border-bottom: 1px solid #fff;
+            margin-bottom: 30px;
+        }
+    }
+    .birth-day {
+        margin-top: 20px;
+        font-size: 12px;
+        color: #fff;
+    }
+}
+.attack-history {
+    .attack-title {
+        font-size: 24px;
+    }
+}
+.bird-res-tr {
+    position: relative;
+    width: 300px;
+}
+.bird-res-color {
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.attack-res-in-table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.attack-res-wrap {
+    background-image: url(../img/shouye-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    .attack-res-title {
+        margin: 88px auto;
+        height: 38px;
+        width: 135px;
+        background-image: url(../img/zdjm-08.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .attack-res-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .attack-bird-buffer {
+            width: 77px;
+            height: 63px;
+            flex-grow: 0;
+            flex-shrink: 0;
+            margin: 0 20px;
+            background-image: url(../img/zdjm-09.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .attack-bird-left {
+            width: 250px;
+            flex-grow: 0;
+            flex-shrink: 0;
+        }
+        .attack-bird-right {
+            width: 250px;
+            flex-grow: 0;
+            flex-shrink: 0;
+        }
+    }
+}
+.attack-res-header {
+    height: 60px;
+    background: #000c1f;
+    position: relative;
+    .attack-res-header-log {
+        width: 150px;
+        height: 150px;
+        background-image: url(../img/register-header-logo.png);
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 10px;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+}

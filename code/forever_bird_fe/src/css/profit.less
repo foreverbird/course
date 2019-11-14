@@ -1,0 +1,93 @@
+.total-rank-div {
+	width: 80%;
+	margin: 0 auto;
+	.total-rank-title {
+		color: #fff;
+		font-size: 24px;
+		background-color: #404040;
+		padding: 20px 50px 5px;
+		span {
+			margin: 0 18px;
+			font-size: 18px;
+		}
+	}
+	.tab-select-div {
+		display: flex;
+		margin: 20px 50px;
+		font-size: 18px;
+		.tab-select {
+			padding-right: 10px;
+			margin-right: 10px;
+			border-right: 1px solid #000;
+			line-height: 20px;
+			cursor: pointer;
+			&:last-child {
+				border: none;
+			}
+			&.active {
+				color: red;
+			}
+		}
+	}
+	.total-rank-table {
+		font-size: 16px;
+		padding: 0 50px 0;
+		.total-rank-table-title {
+			display: flex;
+			border-bottom: 1px solid #000;
+			margin: 10px 0 20px;
+			.table-title-word {
+				flex-grow: 1;
+				line-height: 30px;
+				height: 30px;
+				width: 100px;
+				text-align: center;
+				margin: 0;
+			}
+		}
+		.total-rank-table-content {
+			display: flex;
+			&.top3 {
+				.table-title-word {
+					color: #f76228;
+				}
+			}
+			&.top10 {
+				.table-title-word {
+					color: #486790;
+				}
+			}
+			.table-title-word {
+				flex-grow: 1;
+				line-height: 40px;
+				width: 100px;
+				text-align: center;
+				margin: 0;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				white-space: nowrap;
+				padding: 0 10px;
+				&.rank-title {
+					color: #9e602e;
+				}
+			}
+		}
+	}
+}
+.profit-wrap {
+	background-color: #b0cffc;
+	// background-color: #92acd0;
+	padding: 30px;
+}
+.page-div {
+	text-align: right;
+	margin: 30px;
+}
+.rank-table-wrap {
+	border: 1px solid #000;
+	border-radius: 10px;
+	overflow: hidden;
+}
+.history-table-wrap {
+	margin-top: 40px;
+}

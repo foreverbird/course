@@ -1,0 +1,79 @@
+.info1 {
+  width: 300px;
+  position: relative;
+  display: flex;
+  line-height: 75px;
+  margin-left: 95px;
+  align-items: center;
+}
+.info1 .copy-btn {
+  margin-left: 30px;
+}
+.username-wrap {
+  border-top: 4px solid #959491;
+  border-bottom: 2px solid #646c74;
+  background-color: #b0cffc;
+  display: flex;
+  align-items: center;
+}
+.tab {
+  right: 100px;
+  top: 120px;
+}
+.my-bird-list-wrap {
+  padding: 30px;
+  background-color: #89a4cc;
+}
+.bird {
+  margin: 0 auto;
+  padding-bottom: 100px;
+  height: 385px;
+  background-color: #89a4cc;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+.bird .content {
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 85px;
+  height: 118px;
+  display: flex;
+  align-items: center;
+}
+.bird .content .no-img-tip {
+  width: 109px;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url(../img/wxn-01.png);
+  background-size: cover;
+  margin-right: 20px;
+}
+.bird .no-btn-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 137px;
+  overflow: hidden;
+}
+.bird .no-btn-wrap .no-btn {
+  height: 38px;
+  border-radius: 17px;
+  background-color: #1490c4;
+  padding: 0 20px;
+  font-size: 22px;
+  line-height: 38px;
+  color: #fff;
+  margin-bottom: 120px;
+}
+.bird .no-btn-wrap .no-btn a {
+  color: #fff;
+}
+.bird .no-btn-wrap .no-btn:first-child {
+  margin-right: 153px;
+}
+.img {
+  position: relative;
+  left: 100px;
+}
+.attack-modal {
+  background-color: #092e7d;
+}

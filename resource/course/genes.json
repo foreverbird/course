@@ -1,0 +1,658 @@
+{
+	"bird_color":{
+		"0":{
+			"path":"bird_color/bird_color_0.svg",
+			"name":"bird color 0",
+			"desc":"bird color 0"
+		},
+		"1":{
+			"path":"bird_color/bird_color_1.svg",
+			"name":"bird color 1",
+			"desc":"bird color 1"
+		},
+		"2":{
+			"path":"bird_color/bird_color_2.svg",
+			"name":"bird color 2",
+			"desc":"bird color 2"
+		},
+		"3":{
+			"path":"bird_color/bird_color_3.svg",
+			"name":"bird color 3",
+			"desc":"bird color 3"
+		},
+		"4":{
+			"path":"bird_color/bird_color_4.svg",
+			"name":"bird color 4",
+			"desc":"bird color 4"
+		},
+		"5":{
+			"path":"bird_color/bird_color_5.svg",
+			"name":"bird color 5",
+			"desc":"bird color 5"
+		},
+		"6":{
+			"path":"bird_color/bird_color_6.svg",
+			"name":"bird color 6",
+			"desc":"bird color 6"
+		},
+		"7":{
+			"path":"bird_color/bird_color_7.svg",
+			"name":"bird color 7",
+			"desc":"bird color 7"
+		},
+		"8":{
+			"path":"bird_color/bird_color_8.svg",
+			"name":"bird color 8",
+			"desc":"bird color 8"
+		},
+		"9":{
+			"path":"bird_color/bird_color_9.svg",
+			"name":"bird color 9",
+			"desc":"bird color 9"
+		},
+		"10":{
+			"path":"bird_color/bird_color_10.svg",
+			"name":"bird color 10",
+			"desc":"bird color 10"
+		},
+		"11":{
+			"path":"bird_color/bird_color_11.svg",
+			"name":"bird color 11",
+			"desc":"bird color 11"
+		},
+		"12":{
+			"path":"bird_color/bird_color_12.svg",
+			"name":"bird color 12",
+			"desc":"bird color 12"
+		},
+		"13":{
+			"path":"bird_color/bird_color_13.svg",
+			"name":"bird color 13",
+			"desc":"bird color 13"
+		},
+		"14":{
+			"path":"bird_color/bird_color_14.svg",
+			"name":"bird color 14",
+			"desc":"bird color 14"
+		},
+		"15":{
+			"path":"bird_color/bird_color_15.svg",
+			"name":"bird color 15",
+			"desc":"bird color 15"
+		}
+	},
+	"bird_fur":{
+		"0":{
+			"path":"bird_fur/bird_fur_0.svg",
+			"name":"bird fur 0",
+			"desc":"bird fur 0"
+		},
+		"1":{
+			"path":"bird_fur/bird_fur_1.svg",
+			"name":"bird fur 1",
+			"desc":"bird fur 1"
+		},
+		"2":{
+			"path":"bird_fur/bird_fur_2.svg",
+			"name":"bird fur 2",
+			"desc":"bird fur 2"
+		},
+		"3":{
+			"path":"bird_fur/bird_fur_3.svg",
+			"name":"bird fur 3",
+			"desc":"bird fur 3"
+		},
+		"4":{
+			"path":"bird_fur/bird_fur_4.svg",
+			"name":"bird fur 4",
+			"desc":"bird fur 4"
+		},
+		"5":{
+			"path":"bird_fur/bird_fur_5.svg",
+			"name":"bird fur 5",
+			"desc":"bird fur 5"
+		},
+		"6":{
+			"path":"bird_fur/bird_fur_6.svg",
+			"name":"bird fur 6",
+			"desc":"bird fur 6"
+		},
+		"7":{
+			"path":"bird_fur/bird_fur_7.svg",
+			"name":"bird fur 7",
+			"desc":"bird fur 7"
+		},
+		"8":{
+			"path":"bird_fur/bird_fur_8.svg",
+			"name":"bird fur 8",
+			"desc":"bird fur 8"
+		},
+		"9":{
+			"path":"bird_fur/bird_fur_9.svg",
+			"name":"bird fur 9",
+			"desc":"bird fur 9"
+		},
+		"10":{
+			"path":"bird_fur/bird_fur_10.svg",
+			"name":"bird fur 10",
+			"desc":"bird fur 10"
+		},
+		"11":{
+			"path":"bird_fur/bird_fur_11.svg",
+			"name":"bird fur 11",
+			"desc":"bird fur 11"
+		},
+		"12":{
+			"path":"bird_fur/bird_fur_12.svg",
+			"name":"bird fur 12",
+			"desc":"bird fur 12"
+		},
+		"13":{
+			"path":"bird_fur/bird_fur_13.svg",
+			"name":"bird fur 13",
+			"desc":"bird fur 13"
+		},
+		"14":{
+			"path":"bird_fur/bird_fur_14.svg",
+			"name":"bird fur 14",
+			"desc":"bird fur 14"
+		},
+		"15":{
+			"path":"bird_fur/bird_fur_15.svg",
+			"name":"bird fur 15",
+			"desc":"bird fur 15"
+		}
+	},
+	"crest":{
+		"0":{
+			"path":"crest/crest_0.svg",
+			"name":"crest 0",
+			"desc":"crest 0"
+		},
+		"1":{
+			"path":"crest/crest_1.svg",
+			"name":"crest 1",
+			"desc":"crest 1"
+		},
+		"2":{
+			"path":"crest/crest_2.svg",
+			"name":"crest 2",
+			"desc":"crest 2"
+		},
+		"3":{
+			"path":"crest/crest_3.svg",
+			"name":"crest 3",
+			"desc":"crest 3"
+		},
+		"4":{
+			"path":"crest/crest_4.svg",
+			"name":"crest 4",
+			"desc":"crest 4"
+		},
+		"5":{
+			"path":"crest/crest_5.svg",
+			"name":"crest 5",
+			"desc":"crest 5"
+		},
+		"6":{
+			"path":"crest/crest_6.svg",
+			"name":"crest 6",
+			"desc":"crest 6"
+		},
+		"7":{
+			"path":"crest/crest_7.svg",
+			"name":"crest 7",
+			"desc":"crest 7"
+		},
+		"8":{
+			"path":"crest/crest_8.svg",
+			"name":"crest 8",
+			"desc":"crest 8"
+		},
+		"9":{
+			"path":"crest/crest_9.svg",
+			"name":"crest 9",
+			"desc":"crest 9"
+		},
+		"10":{
+			"path":"crest/crest_10.svg",
+			"name":"crest 10",
+			"desc":"crest 10"
+		},
+		"11":{
+			"path":"crest/crest_11.svg",
+			"name":"crest 11",
+			"desc":"crest 11"
+		},
+		"12":{
+			"path":"crest/crest_12.svg",
+			"name":"crest 12",
+			"desc":"crest 12"
+		},
+		"13":{
+			"path":"crest/crest_13.svg",
+			"name":"crest 13",
+			"desc":"crest 13"
+		},
+		"14":{
+			"path":"crest/crest_14.svg",
+			"name":"crest 14",
+			"desc":"crest 14"
+		},
+		"15":{
+			"path":"crest/crest_15.svg",
+			"name":"crest 15",
+			"desc":"crest 15"
+		}
+	},
+	"eye":{
+		"0":{
+			"path":"eye/eye_0.svg",
+			"name":"eye 0",
+			"desc":"eye 0"
+		},
+		"1":{
+			"path":"eye/eye_1.svg",
+			"name":"eye 1",
+			"desc":"eye 1"
+		},
+		"2":{
+			"path":"eye/eye_2.svg",
+			"name":"eye 2",
+			"desc":"eye 2"
+		},
+		"3":{
+			"path":"eye/eye_3.svg",
+			"name":"eye 3",
+			"desc":"eye 3"
+		},
+		"4":{
+			"path":"eye/eye_4.svg",
+			"name":"eye 4",
+			"desc":"eye 4"
+		},
+		"5":{
+			"path":"eye/eye_5.svg",
+			"name":"eye 5",
+			"desc":"eye 5"
+		},
+		"6":{
+			"path":"eye/eye_6.svg",
+			"name":"eye 6",
+			"desc":"eye 6"
+		},
+		"7":{
+			"path":"eye/eye_7.svg",
+			"name":"eye 7",
+			"desc":"eye 7"
+		},
+		"8":{
+			"path":"eye/eye_8.svg",
+			"name":"eye 8",
+			"desc":"eye 8"
+		},
+		"9":{
+			"path":"eye/eye_9.svg",
+			"name":"eye 9",
+			"desc":"eye 9"
+		},
+		"10":{
+			"path":"eye/eye_10.svg",
+			"name":"eye 10",
+			"desc":"eye 10"
+		},
+		"11":{
+			"path":"eye/eye_11.svg",
+			"name":"eye 11",
+			"desc":"eye 11"
+		},
+		"12":{
+			"path":"eye/eye_12.svg",
+			"name":"eye 12",
+			"desc":"eye 12"
+		},
+		"13":{
+			"path":"eye/eye_13.svg",
+			"name":"eye 13",
+			"desc":"eye 13"
+		},
+		"14":{
+			"path":"eye/eye_14.svg",
+			"name":"eye 14",
+			"desc":"eye 14"
+		},
+		"15":{
+			"path":"eye/eye_15.svg",
+			"name":"eye 15",
+			"desc":"eye 15"
+		}
+	},
+	"foot":{
+		"0":{
+			"path":"foot/foot_0.svg",
+			"name":"foot 0",
+			"desc":"foot 0"
+		},
+		"1":{
+			"path":"foot/foot_1.svg",
+			"name":"foot 1",
+			"desc":"foot 1"
+		},
+		"2":{
+			"path":"foot/foot_2.svg",
+			"name":"foot 2",
+			"desc":"foot 2"
+		},
+		"3":{
+			"path":"foot/foot_3.svg",
+			"name":"foot 3",
+			"desc":"foot 3"
+		},
+		"4":{
+			"path":"foot/foot_4.svg",
+			"name":"foot 4",
+			"desc":"foot 4"
+		},
+		"5":{
+			"path":"foot/foot_5.svg",
+			"name":"foot 5",
+			"desc":"foot 5"
+		},
+		"6":{
+			"path":"foot/foot_6.svg",
+			"name":"foot 6",
+			"desc":"foot 6"
+		},
+		"7":{
+			"path":"foot/foot_7.svg",
+			"name":"foot 7",
+			"desc":"foot 7"
+		},
+		"8":{
+			"path":"foot/foot_8.svg",
+			"name":"foot 8",
+			"desc":"foot 8"
+		},
+		"9":{
+			"path":"foot/foot_9.svg",
+			"name":"foot 9",
+			"desc":"foot 9"
+		},
+		"10":{
+			"path":"foot/foot_10.svg",
+			"name":"foot 10",
+			"desc":"foot 10"
+		},
+		"11":{
+			"path":"foot/foot_11.svg",
+			"name":"foot 11",
+			"desc":"foot 11"
+		},
+		"12":{
+			"path":"foot/foot_12.svg",
+			"name":"foot 12",
+			"desc":"foot 12"
+		},
+		"13":{
+			"path":"foot/foot_13.svg",
+			"name":"foot 13",
+			"desc":"foot 13"
+		},
+		"14":{
+			"path":"foot/foot_14.svg",
+			"name":"foot 14",
+			"desc":"foot 14"
+		},
+		"15":{
+			"path":"foot/foot_15.svg",
+			"name":"foot 15",
+			"desc":"foot 15"
+		}
+	},
+	"mouth":{
+		"0":{
+			"path":"mouth/mouth_0.svg",
+			"name":"mouth 0",
+			"desc":"mouth 0"
+		},
+		"1":{
+			"path":"mouth/mouth_1.svg",
+			"name":"mouth 1",
+			"desc":"mouth 1"
+		},
+		"2":{
+			"path":"mouth/mouth_2.svg",
+			"name":"mouth 2",
+			"desc":"mouth 2"
+		},
+		"3":{
+			"path":"mouth/mouth_3.svg",
+			"name":"mouth 3",
+			"desc":"mouth 3"
+		},
+		"4":{
+			"path":"mouth/mouth_4.svg",
+			"name":"mouth 4",
+			"desc":"mouth 4"
+		},
+		"5":{
+			"path":"mouth/mouth_5.svg",
+			"name":"mouth 5",
+			"desc":"mouth 5"
+		},
+		"6":{
+			"path":"mouth/mouth_6.svg",
+			"name":"mouth 6",
+			"desc":"mouth 6"
+		},
+		"7":{
+			"path":"mouth/mouth_7.svg",
+			"name":"mouth 7",
+			"desc":"mouth 7"
+		},
+		"8":{
+			"path":"mouth/mouth_8.svg",
+			"name":"mouth 8",
+			"desc":"mouth 8"
+		},
+		"9":{
+			"path":"mouth/mouth_9.svg",
+			"name":"mouth 9",
+			"desc":"mouth 9"
+		},
+		"10":{
+			"path":"mouth/mouth_10.svg",
+			"name":"mouth 10",
+			"desc":"mouth 10"
+		},
+		"11":{
+			"path":"mouth/mouth_11.svg",
+			"name":"mouth 11",
+			"desc":"mouth 11"
+		},
+		"12":{
+			"path":"mouth/mouth_12.svg",
+			"name":"mouth 12",
+			"desc":"mouth 12"
+		},
+		"13":{
+			"path":"mouth/mouth_13.svg",
+			"name":"mouth 13",
+			"desc":"mouth 13"
+		},
+		"14":{
+			"path":"mouth/mouth_14.svg",
+			"name":"mouth 14",
+			"desc":"mouth 14"
+		},
+		"15":{
+			"path":"mouth/mouth_15.svg",
+			"name":"mouth 15",
+			"desc":"mouth 15"
+		}
+	},
+	"tail":{
+		"0":{
+			"path":"tail/tail_0.svg",
+			"name":"tail 0",
+			"desc":"tail 0"
+		},
+		"1":{
+			"path":"tail/tail_1.svg",
+			"name":"tail 1",
+			"desc":"tail 1"
+		},
+		"2":{
+			"path":"tail/tail_2.svg",
+			"name":"tail 2",
+			"desc":"tail 2"
+		},
+		"3":{
+			"path":"tail/tail_3.svg",
+			"name":"tail 3",
+			"desc":"tail 3"
+		},
+		"4":{
+			"path":"tail/tail_4.svg",
+			"name":"tail 4",
+			"desc":"tail 4"
+		},
+		"5":{
+			"path":"tail/tail_5.svg",
+			"name":"tail 5",
+			"desc":"tail 5"
+		},
+		"6":{
+			"path":"tail/tail_6.svg",
+			"name":"tail 6",
+			"desc":"tail 6"
+		},
+		"7":{
+			"path":"tail/tail_7.svg",
+			"name":"tail 7",
+			"desc":"tail 7"
+		},
+		"8":{
+			"path":"tail/tail_8.svg",
+			"name":"tail 8",
+			"desc":"tail 8"
+		},
+		"9":{
+			"path":"tail/tail_9.svg",
+			"name":"tail 9",
+			"desc":"tail 9"
+		},
+		"10":{
+			"path":"tail/tail_10.svg",
+			"name":"tail 10",
+			"desc":"tail 10"
+		},
+		"11":{
+			"path":"tail/tail_11.svg",
+			"name":"tail 11",
+			"desc":"tail 11"
+		},
+		"12":{
+			"path":"tail/tail_12.svg",
+			"name":"tail 12",
+			"desc":"tail 12"
+		},
+		"13":{
+			"path":"tail/tail_13.svg",
+			"name":"tail 13",
+			"desc":"tail 13"
+		},
+		"14":{
+			"path":"tail/tail_14.svg",
+			"name":"tail 14",
+			"desc":"tail 14"
+		},
+		"15":{
+			"path":"tail/tail_15.svg",
+			"name":"tail 15",
+			"desc":"tail 15"
+		}
+	},
+	"wing":{
+		"0":{
+			"path":"wing/wing_0.svg",
+			"name":"wing 0",
+			"desc":"wing 0"
+		},
+		"1":{
+			"path":"wing/wing_1.svg",
+			"name":"wing 1",
+			"desc":"wing 1"
+		},
+		"2":{
+			"path":"wing/wing_2.svg",
+			"name":"wing 2",
+			"desc":"wing 2"
+		},
+		"3":{
+			"path":"wing/wing_3.svg",
+			"name":"wing 3",
+			"desc":"wing 3"
+		},
+		"4":{
+			"path":"wing/wing_4.svg",
+			"name":"wing 4",
+			"desc":"wing 4"
+		},
+		"5":{
+			"path":"wing/wing_5.svg",
+			"name":"wing 5",
+			"desc":"wing 5"
+		},
+		"6":{
+			"path":"wing/wing_6.svg",
+			"name":"wing 6",
+			"desc":"wing 6"
+		},
+		"7":{
+			"path":"wing/wing_7.svg",
+			"name":"wing 7",
+			"desc":"wing 7"
+		},
+		"8":{
+			"path":"wing/wing_8.svg",
+			"name":"wing 8",
+			"desc":"wing 8"
+		},
+		"9":{
+			"path":"wing/wing_9.svg",
+			"name":"wing 9",
+			"desc":"wing 9"
+		},
+		"10":{
+			"path":"wing/wing_10.svg",
+			"name":"wing 10",
+			"desc":"wing 10"
+		},
+		"11":{
+			"path":"wing/wing_11.svg",
+			"name":"wing 11",
+			"desc":"wing 11"
+		},
+		"12":{
+			"path":"wing/wing_12.svg",
+			"name":"wing 12",
+			"desc":"wing 12"
+		},
+		"13":{
+			"path":"wing/wing_13.svg",
+			"name":"wing 13",
+			"desc":"wing 13"
+		},
+		"14":{
+			"path":"wing/wing_14.svg",
+			"name":"wing 14",
+			"desc":"wing 14"
+		},
+		"15":{
+			"path":"wing/wing_15.svg",
+			"name":"wing 15",
+			"desc":"wing 15"
+		}
+	}
+}

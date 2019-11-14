@@ -1,0 +1,454 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+.main .main-header {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  color: #fff;
+  height: 65px;
+  padding: 15px 65px 0;
+  background-color: #000c1f;
+}
+.main .main-header div {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.main .main-header .home-logo {
+  width: 40px;
+  height: 35px;
+  margin-right: 50px;
+  background-image: url(img/shouye-home-logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.main .main-header .home-discorvery {
+  margin-right: 50px;
+}
+.main .main-header .home-intro {
+  margin-right: 50px;
+}
+.main .main-header .home-qa {
+  flex-grow: 1;
+}
+.main .main-header .home-login {
+  height: 30px;
+  line-height: 30px;
+  border-radius: 20px;
+  padding: 0 20px;
+  background-color: #cf9c0d;
+}
+.main .main-top .bird-intro {
+  background-color: #000;
+  height: 510px;
+  background-color: #f5f5f5;
+  background-image: url(img/shouye-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.main .main-top .bird-intro .wing-logo {
+  position: absolute;
+  margin-left: 50%;
+  transform: translateX(-10%);
+  width: 280px;
+  height: 235px;
+  background-image: url(img/shouye-logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: 10px;
+}
+.main .main-top .bird-intro .bird-logo {
+  position: absolute;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 175px;
+  height: 195px;
+  background-image: url(img/shouye-top-bird.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  bottom: 0px;
+}
+.main .main-top .bird-intro .index-title {
+  position: absolute;
+  color: #fff;
+  font-size: 24px;
+  right: 60px;
+  top: 50%;
+}
+.main .main-top .bird-intro .index-sub-title {
+  position: absolute;
+  color: #fff;
+  font-size: 22px;
+  right: 130px;
+  top: 60%;
+}
+.main .main-top .bird-intro .buy-bird {
+  position: absolute;
+  width: 220px;
+  height: 360px;
+  border: 2px solid #455766;
+  border-radius: 20px;
+  top: 70px;
+  left: 125px;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 20px;
+}
+.main .main-top .bird-intro .begin-btn {
+  position: absolute;
+  color: #fff;
+  font-size: 22px;
+  right: 180px;
+  top: 80%;
+  width: 200px;
+  height: 60px;
+  border: 2px solid #fff;
+  border-radius: 30px;
+  background-color: #2f3845;
+  line-height: 60px;
+  text-align: center;
+}
+.main .main-top .bird-intro .begin-btn a {
+  color: #fff !important;
+}
+.main .main-top .margin-buffer {
+  height: 50px;
+  background-color: #000;
+  font-size: 22px;
+  line-height: 50px;
+  color: #fff;
+  text-align: center;
+}
+.main .main-top .bird-qukuai {
+  background-color: #92acd0;
+  border-top: 10px solid #585858;
+  overflow: hidden;
+}
+.main .main-top .bird-qukuai .qukuai-logo {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  margin: 53px auto 10px;
+  background-image: url(img/shouye-qukuai-logo.png);
+  background-repeat: no-repeat;
+}
+.main .main-top .bird-qukuai .qukuai-title {
+  font-size: 36px;
+  margin: 0 150px;
+  text-align: center;
+}
+.main .main-top .bird-qukuai .qukuai-sub-title {
+  margin: 31px auto 100px;
+  width: 550px;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+}
+.main .main-top .bird-qa {
+  display: flex;
+  padding: 62px 100px 50px;
+}
+.main .main-top .bird-qa .qa {
+  margin-right: 100px;
+}
+.main .main-top .bird-qa .qa .title {
+  font-size: 36px;
+  margin-bottom: 25px;
+}
+.main .main-top .bird-qa .qa .ctx {
+  font-size: 18px;
+  margin-bottom: 35px;
+  word-break: break-all;
+}
+.main .main-top .bird-qa .qa .qa-btn {
+  height: 40px;
+  padding: 0 20px;
+  line-height: 40px;
+  border-radius: 20px;
+  background-color: #38a318;
+  color: #fff;
+  width: 130px;
+}
+.main .main-top .bird-qa .logo {
+  width: 375px;
+  height: 255px;
+  background-color: #f5f5f5;
+  background-image: url(img/shouye-pc-logo.jpg);
+  background-repeat: no-repeat;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin: 0;
+}
+.main .main-top .bird-tech {
+  display: flex;
+  padding: 62px 100px 50px;
+  border-top: 2px solid #acacac;
+}
+.main .main-top .bird-tech .qa {
+  margin-right: 138px;
+}
+.main .main-top .bird-tech .qa .title {
+  font-size: 36px;
+  margin-bottom: 25px;
+}
+.main .main-top .bird-tech .qa .ctx {
+  font-size: 18px;
+  margin-bottom: 35px;
+  word-break: break-all;
+}
+.main .main-top .bird-tech .qa .qa-btn {
+  height: 40px;
+  padding: 0 20px;
+  line-height: 40px;
+  border-radius: 20px;
+  background-color: #fbdb09;
+  color: #000;
+  width: 100px;
+}
+.main .main-top .bird-tech .logo {
+  width: 190px;
+  height: 200px;
+  background-color: #f5f5f5;
+  background-image: url(img/shouye-safe-logo.jpg);
+  background-repeat: no-repeat;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin: 0;
+  margin-right: 40px;
+}
+.main .main-top .bird-fight {
+  background-color: #92acd0;
+  overflow: hidden;
+}
+.main .main-top .bird-fight .title {
+  font-size: 32px;
+  text-align: center;
+  margin: 28px auto 40px;
+}
+.main .main-top .bird-fight .info {
+  overflow: hidden;
+  width: 665px;
+  border-bottom: 3px solid #153669;
+  margin: 0 auto 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main .main-top .bird-fight .info div {
+  flex-grow: 0;
+  flex-shrink: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.main .main-top .bird-fight .info .bird {
+  width: 95px;
+  height: 100px;
+  background-image: url(img/shouye-bird-loop.png);
+}
+.main .main-top .bird-fight .info .fork {
+  width: 45px;
+  height: 45px;
+  background-image: url(img/shouye-fork.png);
+}
+.main .main-top .bird-fight .info .small-bird {
+  width: 105px;
+  height: 90px;
+  background-image: url(img/shouye-bird-res.png);
+}
+.main .main-top .bird-fight .info .equal {
+  width: 50px;
+  height: 32px;
+  background-image: url(img/shouye-equal.png);
+}
+.main .main-top .bird-fight .info .big-bird {
+  width: 145px;
+  height: 155px;
+  background-image: url(img/shouye-bird-loop.png);
+}
+.main .main-top .bird-fight .sub-title {
+  color: #fff;
+  font-size: 16px;
+  width: 450px;
+  margin: 0 auto 75px;
+  text-align: center;
+  word-break: break-all;
+  overflow: hidden;
+}
+.main .main-top .bird-video {
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+.main .main-top .bird-video .title {
+  font-size: 32px;
+  text-align: center;
+  margin: 38px auto;
+}
+.main .main-top .bird-video .video-wrap {
+  display: flex;
+  justify-content: center;
+}
+.main .main-top .bird-video .video-wrap .big-video {
+  width: 355px;
+  height: 255px;
+  margin-right: 65px;
+  background-color: #f5f5f5;
+  background-repeat: no-repeat;
+  background-image: url(img/video-big.jpg);
+  background-size: contain;
+}
+.main .main-top .bird-video .video-wrap .small-video-wrap .sub-title {
+  height: 70px;
+  line-height: 70px;
+  font-size: 18px;
+}
+.main .main-top .bird-video .video-wrap .small-video-wrap .small-videos {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+}
+.main .main-top .bird-video .video-wrap .small-video-wrap .small-videos .video {
+  height: 180px;
+  width: 145px;
+  background-color: #f5f5f5;
+  background-image: url(img/video-small.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bodyCss {
+  height: 80%;
+  background-color: white;
+  /* min-width: 824px; */
+  /* overflow: visible; */
+}
+.header {
+  height: 20px;
+  background-color: whitesmoke;
+}
+.footer {
+  height: 100px;
+  background-color: whitesmoke;
+}
+.ant-menu-horizontal > .ant-menu-item:hover,
+.ant-menu-horizontal > .ant-menu-submenu:hover,
+.ant-menu-horizontal > .ant-menu-item-active,
+.ant-menu-horizontal > .ant-menu-submenu-active,
+.ant-menu-horizontal > .ant-menu-item-open,
+.ant-menu-horizontal > .ant-menu-submenu-open,
+.ant-menu-horizontal > .ant-menu-item-selected,
+.ant-menu-horizontal > .ant-menu-submenu-selected {
+  border-bottom: none !important;
+  color: #fff !important;
+}
+.ant-menu-item,
+.ant-menu-submenu-title {
+  transition: none !important;
+}
+.ant-menu-horizontal > .ant-menu-item > a:hover {
+  color: #fff !important;
+}
+.ant-menu-horizontal {
+  border-bottom: none !important;
+}
+.menu {
+  margin-left: 68px;
+  position: absolute;
+  top: 130px;
+  left: 200px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
+.menu .menu-wrap {
+  background: transparent;
+}
+.menu .menu-wrap .menu-item.ant-menu-item-selected {
+  border-radius: 25px;
+  background-color: #faac0a;
+}
+.menu .menu-wrap .menu-item:hover {
+  border-radius: 25px;
+  background-color: #faac0a;
+}
+.menu .menu-wrap .menu-item a {
+  color: #fff;
+}
+.menu table {
+  width: 100%;
+}
+.menu table tr {
+  vertical-align: middle;
+}
+.menu table tr td div a {
+  padding-left: 100px;
+}
+.logo {
+  width: 65px;
+  height: 60px;
+  /* background: rgba(255,255,255,.2); */
+  margin: 16px 200px 16px 100px;
+  float: left;
+  background-image: url('img/logo.png');
+}
+.detail {
+  min-height: 500px;
+  /* background-color: chartreuse; */
+}
+.regeist {
+  width: 80%;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.invite-content {
+  background-color: #92acd0;
+  border-top: 2px solid #455766;
+  padding: 39px 0 45px 158px;
+  position: relative;
+}
+.invite-content .invite-title {
+  font-size: 26px;
+}
+.invite-content .invite-sub-title {
+  font-size: 16px;
+  margin-top: 16px;
+}
+.invite-content .my-super-link {
+  margin-top: 15px;
+  font-size: 16px;
+}
+.invite-content .invite-sub-sub-title {
+  margin-top: 41px;
+  font-size: 15px;
+}
+.invite-content .invite-btn-desc {
+  font-size: 12px;
+  margin-top: 10px;
+}
+.invite-content .invite-btn-wrap {
+  display: flex;
+}
+.invite-content .invite-btn-wrap .invite-btn {
+  margin-right: 15px;
+  height: 30px;
+  font-size: 14px;
+  padding: 0 10px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: #fff;
+  background-color: #38a318;
+}
+.invite-content .invite-logo {
+  width: 278px;
+  height: 155px;
+  background-image: url(img/yq-01.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  bottom: 45px;
+  right: 100px;
+}
+.sort-main .sort-wrap {
+  padding: 30px;
+  background-color: #92acd0;
+}
